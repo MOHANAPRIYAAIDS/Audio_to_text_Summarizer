@@ -4,4 +4,4 @@ This project converts audio files in various languages to text using models like
 
 ## Project Flow
 
-![MODEL FLOW] (Workflow_model.png)
+![MODEL FLOW](https://github.com/MOHANAPRIYAAIDS/Audio_to_text_Summarizer/blob/main/Workflow_model.png)
